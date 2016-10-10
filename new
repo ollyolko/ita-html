@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>lol.com</title>
+	</head>
+ <body> 
+
+	<a name="top"></a> 		<!-- якір -->
+ 
+	<h1>Заголовок страницы</h1>
+	<p>Основной текст.</p>
+	<a href="http://google.com" target="_blank"> ссилка на гугл </a> <br> 		<!-- ссилка на ресурси -->
+  <img src="img/pas.jpg" width="180" height="120">                                      <!-- вставка картинки -->
+  <a href="http://google.com" target="_blank"><img src="img/google.jpg" width="240" height="120" hspase="10" vspase="10"></a> <!-- картинка ссилка-->
+  
+ <ul type="square">
+	<li>1</li>
+	<li>2</li>
+	<li>3</li>
+	<li>4</li>
+	<li>5</li>
+	<li>6</li>
+  </ul>
+  
+  <ol type="square">
+	<li>1</li>
+	<li>2</li>
+	<li>3</li>
+	<li>4</li>
+	<li>5</li>
+	<li>6</li>
+  </ol>
+  
+  <pre> строка з кучою пробілів.              тег пре.          текст моноширинний     </pre>
+  
+  
+  
+  <p>Основной текст.</p> <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <p>Основной текст.</p><p>Основной текст.</p><p>Основной текст.</p><p>Основной текст.</p><p>Основной текст.</p>
+  <a href="#top">наверх</a>         <!-- ссилка на якір -->
+
+ </body>
+</html>
